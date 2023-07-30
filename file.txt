@@ -1,0 +1,5 @@
+test_input_field: passed
+test_enter_button: passed
+test_check_validation: failed
+test_success_auth: passed
+test_check_password_error: passed
